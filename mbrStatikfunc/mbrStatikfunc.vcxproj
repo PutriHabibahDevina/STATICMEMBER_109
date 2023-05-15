@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c35152cd-7e99-44df-901d-eae20d952020}</ProjectGuid>
-    <RootNamespace>STATICMEMBER109</RootNamespace>
+    <ProjectGuid>{e8d80256-dc05-43ad-84fa-b41e47d7e293}</ProjectGuid>
+    <RootNamespace>mbrStatikfunc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="STATICMEMBER_109.cpp" />
+    <ClCompile Include="mbrStatikfunc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
