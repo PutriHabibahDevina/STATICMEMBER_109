@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c35152cd-7e99-44df-901d-eae20d952020}</ProjectGuid>
-    <RootNamespace>STATICMEMBER109</RootNamespace>
+    <ProjectGuid>{5db9aa29-5459-4d88-9951-8367ed164d12}</ProjectGuid>
+    <RootNamespace>konstruktor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="mbrStatikfunc.cpp" />
-    <ClCompile Include="STATICMEMBER_109.cpp" />
+    <ClCompile Include="konstruktor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

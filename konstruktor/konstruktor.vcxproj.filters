@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="STATICMEMBER_109.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="mbrStatikfunc.cpp">
+    <ClCompile Include="konstruktor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
